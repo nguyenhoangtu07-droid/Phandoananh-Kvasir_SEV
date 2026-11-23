@@ -1,0 +1,13 @@
+# Trọng số mô hình (dung lượng lớn, không đưa lên GitHub)
+checkpoints/
+*.pt
+*.pth
+*.safetensors
+# Dữ liệu ảnh
+data/
+*.zip
+# Kết quả chạy thử
+ket_qua_chay_thu/
+ket_qua_bo_sung_chay_thu/
+.ipynb_checkpoints/
+__pycache__/
